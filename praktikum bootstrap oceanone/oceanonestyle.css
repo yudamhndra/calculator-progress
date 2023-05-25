@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Overlock&display=swap");
+
+.navbar-custom {
+  background-color: #212529;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 0;
+  margin-bottom: 0;
+}
+
+.navbar-custom .navbar-brand {
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar-custom .nav-link {
+  color: #fff;
+  font-size: 1.2rem;
+  margin-right: 1rem;
+}
+
+.navbar-custom .nav-link:hover {
+  color: #ffc107;
+}
+
+.cotainerx {
+  max-width: 968px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-color {
+  color: #0689e0;
+}
+
+.home {
+  background: url("./src/greenturtle.jpeg") no-repeat center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.9;
+}
+
+.sectionthree {
+  background: url("./src/oceanhd.jpeg") no-repeat center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.sectionfour__img {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.sectionfour__bg1 {
+  background: url("./src/lumpursampahplastik.jpg") no-repeat center;
+}
+
+.sectionfour__bg2 {
+  background: url("./src/batadariplastik'.jpeg") no-repeat center;
+}
+
+.sectionfour__bg3 {
+  background: url("./src/penyuterjeratjala.jpg") no-repeat center;
+}
+
+.sectionfour__bg4 {
+  background: url("./src/menyulamjala.jpg") no-repeat center;
+}
+
+.section {
+  padding: 6rem 0 2rem;
+}
+
+.imglogo {
+  width: 50px;
+  height: 50px;
+}
